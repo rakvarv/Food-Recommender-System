@@ -1,0 +1,11 @@
+.page_root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em;
+}
+
+.home_button {
+  width: 10em;
+  height: 5em;
+}

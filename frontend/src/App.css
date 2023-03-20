@@ -1,0 +1,11 @@
+.app-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 2em;
+}
+
+.results {
+  box-sizing: content-box;
+  overflow-y: scroll;
+  height: calc(100vh - 4em);
+}
